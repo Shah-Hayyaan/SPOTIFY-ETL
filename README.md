@@ -1,2 +1,0 @@
-# SPOTIFY ETL
- 
